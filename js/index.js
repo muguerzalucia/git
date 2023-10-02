@@ -1,0 +1,1 @@
+alert("Esta página solo cuenta con información de la Ciudad de La Plata, si estas en otra ciudad, algunos datos pueden no ser correctos.")
